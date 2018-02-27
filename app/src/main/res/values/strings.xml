@@ -2,5 +2,6 @@
     <string name="app_name">sporingsapp</string>
     <string name="title_search">Spor</string>
     <string name="title_contact">Kontakt</string>
-    <string name="title_notifications">Notifications</string>
+
+    <string name="title_activity_map">MapActivity</string>
 </resources>
