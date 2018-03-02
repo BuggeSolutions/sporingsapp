@@ -8,7 +8,7 @@
     tools:context="solutions.bugge.sporingsapp.MainActivity">
 
     <TextView
-        android:id="@+id/addressView"
+        android:id="@+id/txtPhoneNumberView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -17,6 +17,7 @@
         android:layout_marginTop="8dp"
         android:layout_weight="1"
         android:text="@string/txt_phone_info"
+        android:autoLink="phone"
         app:layout_constraintBottom_toTopOf="@+id/navigation"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/constraintLayout"
@@ -39,7 +40,7 @@
         app:layout_constraintTop_toBottomOf="@+id/constraintLayout" />
 
     <TextView
-        android:id="@+id/txtPhoneNumberView"
+        android:id="@+id/addressView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
