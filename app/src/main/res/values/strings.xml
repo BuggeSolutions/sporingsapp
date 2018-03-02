@@ -9,7 +9,7 @@
     <string name="title_trace">Your parcel</string>
     <string name="txt_parcel_location">Location:</string>
     <string name="txt_parcel_location_info">default_location</string>
-    <string name="txt_parcel_delivery">Expected delivery time:</string>
+    <string name="txt_parcel_delivery">Delivery time:</string>
     <string name="txt_parcel_time_info">default_time</string>
 
     <string name="title_activity_map">MapActivity</string>

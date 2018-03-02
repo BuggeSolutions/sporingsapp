@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                         setErrorText("Koden din er for kort");
                     }
                     else {
-                        startActivity(new Intent(MainActivity.this,MapActivity.class));
+                        startActivity(new Intent(MainActivity.this,TraceActivity.class));
                     }
                 }
                 else { setErrorText("Koden din er for kort"); }
