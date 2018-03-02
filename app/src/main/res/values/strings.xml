@@ -2,6 +2,10 @@
     <string name="app_name">sporingsapp</string>
     <string name="title_search">Spor</string>
     <string name="title_contact">Kontakt</string>
+    <string name="txt_address">Adresse:</string>
+    <string name="txt_phone">Telefon:</string>
+    <string name="txt_address_info">Myrabakken6\n6460 Eidsvåg</string>
+    <string name="txt_phone_info">+47 455 01 337 </string>
 
     <string name="title_activity_map">MapActivity</string>
 </resources>
